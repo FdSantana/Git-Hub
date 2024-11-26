@@ -1,1 +1,1 @@
-Esta pasta reflete os cursos que venho fazendo, ou algum projeto.
+Esta pasta reflete os cursos que venho fazendo, ou algum projeto. A ideia é ser abranjente nos assuntos (visualização de dados, infra, programação, negócios, etc..)
