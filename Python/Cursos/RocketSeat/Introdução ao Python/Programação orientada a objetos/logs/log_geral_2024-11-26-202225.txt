@@ -1,0 +1,6 @@
+erro : table pessoas has 8 columns but 7 values were supplied - data : 2024-11-26-20:22:25 
+erro : table pessoas has 8 columns but 7 values were supplied - data : 2024-11-26-20:22:25 
+erro : table pessoas has 8 columns but 7 values were supplied - data : 2024-11-26-20:22:25 
+erro : table pessoas has 8 columns but 7 values were supplied - data : 2024-11-26-20:22:25 
+erro : table pessoas has 8 columns but 7 values were supplied - data : 2024-11-26-20:22:25 
+erro : table pessoas has 8 columns but 7 values were supplied - data : 2024-11-26-20:22:25 

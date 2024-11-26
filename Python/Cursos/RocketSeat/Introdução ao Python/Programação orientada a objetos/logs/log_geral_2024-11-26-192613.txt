@@ -1,0 +1,6 @@
+erro : unrecognized token: "837A7561" - data : 2024-11-26-19:26:13 
+erro : unrecognized token: "60FEC9AE" - data : 2024-11-26-19:26:13 
+erro : unrecognized token: "8AC5" - data : 2024-11-26-19:26:13 
+erro : unrecognized token: "5556993F" - data : 2024-11-26-19:26:13 
+erro : unrecognized token: "07B9C40B" - data : 2024-11-26-19:26:13 
+erro : unrecognized token: "3C0FBBAD" - data : 2024-11-26-19:26:13 

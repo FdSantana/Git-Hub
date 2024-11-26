@@ -1,0 +1,6 @@
+erro : 'Pessoa' object has no attribute 'id' - data : 2024-11-26-19:39:24 
+erro : 'Pessoa' object has no attribute 'id' - data : 2024-11-26-19:39:24 
+erro : 'Pessoa' object has no attribute 'id' - data : 2024-11-26-19:39:24 
+erro : 'Pessoa' object has no attribute 'id' - data : 2024-11-26-19:39:24 
+erro : 'Pessoa' object has no attribute 'id' - data : 2024-11-26-19:39:24 
+erro : 'Pessoa' object has no attribute 'id' - data : 2024-11-26-19:39:24 

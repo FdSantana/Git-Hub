@@ -1,0 +1,6 @@
+erro : 'Pessoa' object has no attribute 'id_db' - data : 2024-11-26-19:38:56 
+erro : 'Pessoa' object has no attribute 'id_db' - data : 2024-11-26-19:38:56 
+erro : 'Pessoa' object has no attribute 'id_db' - data : 2024-11-26-19:38:56 
+erro : 'Pessoa' object has no attribute 'id_db' - data : 2024-11-26-19:38:56 
+erro : 'Pessoa' object has no attribute 'id_db' - data : 2024-11-26-19:38:56 
+erro : 'Pessoa' object has no attribute 'id_db' - data : 2024-11-26-19:38:56 

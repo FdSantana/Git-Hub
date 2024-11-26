@@ -1,0 +1,6 @@
+erro : unrecognized token: "840B3BCA" - data : 2024-11-26-19:29:31 
+erro : unrecognized token: "4E3A" - data : 2024-11-26-19:29:31 
+erro : unrecognized token: "40EA04FF" - data : 2024-11-26-19:29:31 
+erro : unrecognized token: "16FE44A9" - data : 2024-11-26-19:29:31 
+erro : unrecognized token: "4D12" - data : 2024-11-26-19:29:31 
+erro : unrecognized token: "71E8A5B5" - data : 2024-11-26-19:29:31 

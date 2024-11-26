@@ -1,0 +1,6 @@
+erro : near "Silva": syntax error - data : 2024-11-26-19:55:55 
+erro : near "Oliveira": syntax error - data : 2024-11-26-19:55:55 
+erro : near "Santos": syntax error - data : 2024-11-26-19:55:55 
+erro : near "Souza": syntax error - data : 2024-11-26-19:55:55 
+erro : near "Almeida": syntax error - data : 2024-11-26-19:55:55 
+erro : near "Costa": syntax error - data : 2024-11-26-19:55:55 

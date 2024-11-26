@@ -1,0 +1,2 @@
+pandasql==0.7.3
+pandas==2.2.3

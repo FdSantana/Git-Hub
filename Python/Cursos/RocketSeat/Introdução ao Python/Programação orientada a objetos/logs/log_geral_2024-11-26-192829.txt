@@ -1,0 +1,6 @@
+erro : unrecognized token: "0C52A591" - data : 2024-11-26-19:28:29 
+erro : unrecognized token: "12A539FD" - data : 2024-11-26-19:28:29 
+erro : unrecognized token: "65B01614" - data : 2024-11-26-19:28:29 
+erro : near "Souza": syntax error - data : 2024-11-26-19:28:29 
+erro : unrecognized token: "63CE" - data : 2024-11-26-19:28:29 
+erro : unrecognized token: "7E695E23" - data : 2024-11-26-19:28:29 

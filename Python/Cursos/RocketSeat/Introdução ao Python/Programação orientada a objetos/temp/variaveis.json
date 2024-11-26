@@ -1,0 +1,62 @@
+{"pessoas":
+    [{
+        "nome": "João Silva",
+        "idade": 28,
+        "altura": 1.75,
+        "peso": 70,
+        "telefone": "(11) 98765-4321",
+        "email": "joao.silva@email.com",
+        "cep": "12345-678",
+        "data_registro": "2024-11-01 14:30:00"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "idade": 34,
+        "altura": 1.62,
+        "peso": 60,
+        "telefone": "(21) 97654-3210",
+        "email": "maria.oliveira@email.com",
+        "cep": "23456-789",
+        "data_registro": "2024-11-03 09:45:00"
+    },
+    {
+        "nome": "Carlos Santos",
+        "idade": 42,
+        "altura": 1.8,
+        "peso": 85,
+        "telefone": "(31) 94567-8901",
+        "email": "carlos.santos@email.com",
+        "cep": "34567-890",
+        "data_registro": "2024-11-05 12:10:00"
+    },
+    {
+        "nome": "Ana Souza",
+        "idade": 25,
+        "altura": 1.68,
+        "peso": 55,
+        "telefone": "(41) 91234-5678",
+        "email": "ana.souza@email.com",
+        "cep": "45678-901",
+        "data_registro": "2024-11-07 16:20:00"
+    },
+    {
+        "nome": "Pedro Almeida",
+        "idade": 38,
+        "altura": 1.77,
+        "peso": 78,
+        "telefone": "(61) 92345-6789",
+        "email": "pedro.almeida@email.com",
+        "cep": "56789-012",
+        "data_registro": "2024-11-09 08:55:00"
+    },
+    {
+        "nome": "Luciana Costa",
+        "idade": 29,
+        "altura": 1.63,
+        "peso": 63,
+        "telefone": "(51) 93456-7890",
+        "email": "luciana.costa@email.com",
+        "cep": "67890-123",
+        "data_registro": "2024-11-10 11:30:00"
+    }]
+}
