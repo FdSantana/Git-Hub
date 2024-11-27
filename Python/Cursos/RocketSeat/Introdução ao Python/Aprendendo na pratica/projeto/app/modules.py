@@ -3,7 +3,6 @@ import os
 import getpass
 
 user = getpass.getuser()
-path_dict = f"C:\\Users\\{user}\\OneDrive\\Files - Programming\\Estudos\\Python\\RocketSeat\\Introdução ao Python\\Aprendendo na pratica\\projeto\\"
 cmd_limpeza = lambda: os.system("cls")
 
 
@@ -17,11 +16,11 @@ def atualizar_registros(tarefas: list, id_tarefa: dict):
     global cmd_limpeza
 
     print("salvando histórico de tarefas...")
-    with open(path_dict + "\\data\\tarefas_v2.json", "w") as fp:
+    with open("../data/tarefas_v2.json", "w") as fp:
         json.dump(tarefas, fp)
         fp.close()
 
-    with open(path_dict + "\\data\\ultimo_id.json", "w") as fp:
+    with open("../data/ultimo_id.json", "w") as fp:
         json.dump(id_tarefa, fp)
         fp.close()
 
@@ -69,7 +68,7 @@ def atualizar_tarefas(tarefas: list):
         if tarefa_localizada:
             tarefas[i]["tarefa"] = novo_nome
 
-            with open(path_dict + "\\data\\tarefas_v2.json", "w") as fp:
+            with open("../data/tarefas_v2.json", "w") as fp:
                 json.dump(tarefas, fp)
                 fp.close()
 
@@ -121,7 +120,7 @@ def completar_tarefa(tarefas: list):
 
             tarefas[i]["status"] = status[id_status]
 
-            with open(path_dict + "\\data\\tarefas_v2.json", "w") as fp:
+            with open("../data/tarefas_v2.json", "w") as fp:
                 json.dump(tarefas, fp)
                 fp.close()
 
@@ -144,7 +143,7 @@ def deletar_tarefa(tarefas: list):
     lista_tarefas_finalizadas.sort(reverse=True)
 
     try:
-        with open(path_dict + "\\data\\tarefas_removidas.json", "r") as fp:
+        with open("../data/tarefas_removidas.json", "r") as fp:
             tarefas_removidas = json.load(fp)
             fp.close()
     except Exception as e:
@@ -155,11 +154,11 @@ def deletar_tarefa(tarefas: list):
         tarefas_removidas.append(tarefas[i])
         del tarefas[i]
 
-        with open(path_dict + "\\data\\tarefas_v2.json", "w") as fp:
+        with open("../data/tarefas_v2.json", "w") as fp:
             json.dump(tarefas, fp)
             fp.close()
 
-        with open(path_dict + "\\data\\tarefas_removidas.json", "w") as fp:
+        with open("../data/tarefas_removidas.json", "w") as fp:
             json.dump(tarefas, fp)
             fp.close()
 
