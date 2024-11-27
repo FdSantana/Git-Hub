@@ -1,5 +1,4 @@
 import json
-import os
 from modules import (adicionar_tarefa,
                      mostrar_tarefas,
                      atualizar_tarefas,
